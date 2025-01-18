@@ -43,14 +43,13 @@ bash train.sh
 ├── train_baseline.py         # Script for training baseline models
 ├── util.py                   # Utility functions for general use
 ├── utils.py                  # Additional utility functions
-
+```
 --
 # ** Example **
-<p><img src="figure/ori_0.png" width="120px" >
-<img src="figure/ori_0.png" width="120px" >
-<img src="figure/ori_0.png" width="120x" >
-<img src="figure/ori_0.png" width="120px" >
-<img src="figure/ori_0.png" width="120px" >
-<img src="figure/ori_0.png" width="120px" >
-<img src="figure/ori_0.png" width="120px" >
-</p>
+![alt-text-1](figure/ori_0.png "title-1") ![alt-text-2](figure/cuda_0.png "title-2") ![alt-text-2](figure/recover_0.png "title-2") 
+
+![alt-text-1](figure/ori_1.png "title-1") ![alt-text-2](figure/cuda_1.png "title-2") ![alt-text-2](figure/recover_1.png "title-2")
+
+![alt-text-1](figure/ori_2.png "title-1") ![alt-text-2](figure/cuda_2.png "title-2") ![alt-text-2](figure/recover_2.png "title-2")
+
+The first column is the original images; the second column is the CUDA images; the third column is the IRP images.
