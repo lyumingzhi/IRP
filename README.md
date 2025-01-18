@@ -3,7 +3,7 @@
 
 
 ## **Overview**
-This repository contains the implementation of our paper **Leveraging imperfect restoration for data availability attack**. The proposed method leverages imperfect restoration techniques that subtly degrade the input images while introducing imperceptible poisoning patterns to mislead classification models.
+This repository contains the implementation of our paper **Leveraging imperfect restoration for data availability attack** ([paper](https://link.springer.com/chapter/10.1007/978-3-031-73464-9_5 "paper")). The proposed method leverages imperfect restoration techniques that subtly degrade the input images while introducing imperceptible poisoning patterns to mislead classification models.
 
 The project demonstrates the attack's efficacy across multiple classification networks, datasets, and restoration methods, making it a robust framework for exploring vulnerabilities in real-world AI systems.
 
